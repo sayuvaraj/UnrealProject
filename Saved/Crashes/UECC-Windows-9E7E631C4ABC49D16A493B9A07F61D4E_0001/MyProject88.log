@@ -1,0 +1,1124 @@
+﻿Log file open, 07/17/23 13:52:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=27176)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject88
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/MyProject88.uproject" -EpicPortal -epicusername=sayuvarajrohit -epicuserid=43a215d3ed2d46899297ee568aa81e38 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1992] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5500U with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f5d3ef4e4531b4b55501ac9d5951058c"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.294960
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9E7E631C4ABC49D16A493B9A07F61D4E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1992] (), CPU: AMD Ryzen 5 5500U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=sayuvarajrohit -epicuserid=43a215d3ed2d46899297ee568aa81e38 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.17-08.22.52:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.07.17-08.22.52:953][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.07.17-08.22.52:953][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.07.17-08.22.52:953][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.07.17-08.22.52:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.07.17-08.22.52:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.07.17-08.22.52:963][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.07.17-08.22.52:965][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.07.17-08.22.52:966][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.07.17-08.22.52:997][  0]LogD3D12RHI: Aftermath initialized
+[2023.07.17-08.22.52:997][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.07.17-08.22.53:503][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.07.17-08.22.53:503][  0]LogD3D12RHI: Adapter has 2031MB of dedicated video memory, 0MB of dedicated system memory, and 3002MB of shared system memory, 1 output[s]
+[2023.07.17-08.22.53:531][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.07.17-08.22.53:531][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 3002MB of shared system memory, 0 output[s]
+[2023.07.17-08.22.53:532][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.07.17-08.22.53:533][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.17-08.22.53:533][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.07.17-08.22.53:533][  0]LogHAL: Display: Platform has ~ 6 GB [6297477120 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.17-08.22.53:533][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.07.17-08.22.53:533][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.07.17-08.22.53:533][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.17-08.22.53:533][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.07.17-08.22.53:533][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Saved/Config/WindowsEditor/Editor.ini]
+[2023.07.17-08.22.53:534][  0]LogInit: Computer: LAPTOP-ON6TU63C
+[2023.07.17-08.22.53:534][  0]LogInit: User: SAYUVARAJ
+[2023.07.17-08.22.53:534][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.07.17-08.22.53:534][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.17-08.22.53:534][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2023.07.17-08.22.53:534][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.07.17-08.22.53:534][  0]LogMemory: Process Physical Memory: 270.31 MB used, 290.23 MB peak
+[2023.07.17-08.22.53:534][  0]LogMemory: Process Virtual Memory: 227.06 MB used, 227.06 MB peak
+[2023.07.17-08.22.53:534][  0]LogMemory: Physical Memory: 3876.35 MB used,  2129.39 MB free, 6005.74 MB total
+[2023.07.17-08.22.53:534][  0]LogMemory: Virtual Memory: 10513.14 MB used,  8804.60 MB free, 19317.74 MB total
+[2023.07.17-08.22.53:534][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.07.17-08.22.53:541][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.17-08.22.53:561][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.07.17-08.22.53:561][  0]LogInit: Using OS detected language (en-US).
+[2023.07.17-08.22.53:561][  0]LogInit: Using OS detected locale (en-IN).
+[2023.07.17-08.22.53:567][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.07.17-08.22.53:749][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.17-08.22.53:764][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.07.17-08.22.53:764][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2023.07.17-08.22.53:764][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.07.17-08.22.53:764][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2023.07.17-08.22.53:782][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.17-08.22.53:782][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.17-08.22.53:937][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.07.17-08.22.53:937][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.07.17-08.22.54:030][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.07.17-08.22.54:099][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.07.17-08.22.54:100][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.07.17-08.22.54:103][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.07.17-08.22.54:125][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.07.17-08.22.54:126][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.07.17-08.22.54:185][  0]LogD3D12RHI:     GPU DeviceId: 0x164c (for the marketing name, search the web for "GPU Device Id")
+[2023.07.17-08.22.54:185][  0]LogWindows: Attached monitors:
+[2023.07.17-08.22.54:185][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.07.17-08.22.54:185][  0]LogWindows: Found 1 attached monitors.
+[2023.07.17-08.22.54:185][  0]LogWindows: EnumDisplayDevices:
+[2023.07.17-08.22.54:185][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.07.17-08.22.54:186][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.07.17-08.22.54:186][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.07.17-08.22.54:186][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.07.17-08.22.54:186][  0]LogD3D12RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.07.17-08.22.54:186][  0]LogD3D12RHI:   Driver Version: Adrenalin 21.40.52.09 (internal:30.0.14052.9003, unified:30.0.14052.9003)
+[2023.07.17-08.22.54:186][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.07.17-08.22.54:186][  0]LogRHI: Texture pool is 2854 MB (70% of 4078 MB)
+[2023.07.17-08.22.54:187][  0]LogD3D12RHI: Async texture creation enabled
+[2023.07.17-08.22.54:187][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.07.17-08.22.54:224][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/MyProject88.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/TurnkeyReport_0.log" -log="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/TurnkeyLog_0.log" -project="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/MyProject88.uproject"  -platform=all'
+[2023.07.17-08.22.54:224][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/MyProject88.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/TurnkeyReport_0.log" -log="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/TurnkeyLog_0.log" -project="C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/MyProject88.uproject"  -platform=all" ]
+[2023.07.17-08.22.54:271][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.07.17-08.22.54:283][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.07.17-08.22.54:283][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.07.17-08.22.54:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.07.17-08.22.54:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.07.17-08.22.54:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.07.17-08.22.54:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.07.17-08.22.54:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.07.17-08.22.54:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.07.17-08.22.54:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.07.17-08.22.54:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.07.17-08.22.54:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.07.17-08.22.54:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.07.17-08.22.54:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.07.17-08.22.54:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.07.17-08.22.54:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.07.17-08.22.54:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.07.17-08.22.54:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.17-08.22.54:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.07.17-08.22.54:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.17-08.22.54:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.17-08.22.54:339][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.07.17-08.22.54:349][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.17-08.22.54:352][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.07.17-08.22.54:352][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.07.17-08.22.54:352][  0]LogTargetPlatformManager:   ADPCM
+[2023.07.17-08.22.54:352][  0]LogTargetPlatformManager:   PCM
+[2023.07.17-08.22.54:356][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.07.17-08.22.54:356][  0]LogTargetPlatformManager:   BINKA
+[2023.07.17-08.22.54:356][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.07.17-08.22.54:356][  0]LogTargetPlatformManager:   OGG
+[2023.07.17-08.22.54:356][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.07.17-08.22.54:356][  0]LogTargetPlatformManager:   OPUS
+[2023.07.17-08.22.54:406][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.07.17-08.22.54:406][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.07.17-08.22.54:413][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.07.17-08.22.54:417][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.07.17-08.22.54:417][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.07.17-08.22.54:418][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.07.17-08.22.54:427][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.17-08.22.54:427][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.07.17-08.22.54:430][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.17-08.22.54:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.17-08.22.54:434][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.07.17-08.22.54:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.17-08.22.54:434][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.07.17-08.22.54:456][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.07.17-08.22.54:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.17-08.22.54:456][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.07.17-08.22.54:466][  0]LogDerivedDataCache: Speed tests for C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.07.17-08.22.54:466][  0]LogDerivedDataCache: Display: Performance to C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=930.62MBs, RandomWriteSpeed=99.57MBs. Assigned SpeedClass 'Local'
+[2023.07.17-08.22.54:468][  0]LogDerivedDataCache: Using Local data cache path C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.17-08.22.54:468][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.17-08.22.54:468][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.07.17-08.22.54:477][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.07.17-08.22.54:477][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.07.17-08.22.54:478][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Intermediate/Shaders/WorkingDirectory/26792/).
+[2023.07.17-08.22.54:478][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/S A YUVARAJ/AppData/Local/Temp/UnrealShaderWorkingDir/CAAAE5C7421F2DEAA744E0B1EB1EB4DC/'.
+[2023.07.17-08.22.54:479][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.17-08.22.54:479][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.07.17-08.22.55:730][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.17-08.22.55:730][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.17-08.22.55:780][  0]LogAssetRegistry: FAssetRegistry took 0.0137 seconds to start up
+[2023.07.17-08.22.55:786][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.07.17-08.22.55:961][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.07.17-08.22.55:961][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.07.17-08.22.56:252][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.17-08.22.56:252][  0]LogDeviceProfileManager: Active device profile: [000005DD16D34980][000005DD12760000 50] WindowsEditor
+[2023.07.17-08.22.56:252][  0]LogDeviceProfileManager: Profiles: [000005DD16D34440][000005DD05650000 50] Windows, [000005DD16D34980][000005DD12760000 50] WindowsEditor, [000005DD16D32140][000005DD16D50000 50] WindowsServer, [000005DD16D30E00][000005DD16D55000 50] WindowsClient, [000005DD16D30FC0][000005DD16D57800 50] IOS, [000005DD16D30540][000005DD16D5A000 50] iPadAir2, [000005DD16D35240][000005DD12762800 50] IPadPro, [000005DD16D355C0][000005DD16D5C800 50] iPadAir3, [000005DD16D32840][000005DD16D70000 50] iPadAir4, [000005DD16D35780][000005DD16D75000 50] iPadMini4, [000005DD16D33B80][000005DD16D77800 50] iPadMini5, [000005DD16D30380][000005DD16D7A000 50] iPadMini6, [000005DD16D38180][000005DD16DD0000 50] iPhone6S, [000005DD16D38500][000005DD16DD2800 50] iPhone7, [000005DD16D38880][000005DD16DD5000 50] iPodTouch7, [000005DD16D32A00][000005DD16DDA000 50] iPhone6SPlus, [000005DD16D37C40][000005DD16DDC800 50] iPhone7Plus, [000005DD16D31F80][000005DD16D52800 50] iPhoneSE, [000005DD16D33640][000005DD16D7C800 50] iPhone8, [000005DD16D31C00][000005DD16DD7800 50] iPhone8Plus, [000005DD16D38C00][000005DD16DE0000 50] iPhoneX, [000005DD16D31340][000005DD16DE5000 50] iPhoneXS, [000005DD16D31A40][000005DD16DE7800 50] iPhoneXSMax, [000005DD16D31180][000005DD16DEA000 50] iPhoneXR, [000005DD16D36E40][000005DD16DEC800 50] iPhone11, [000005DD16D35080][000005DD16D72800 50] iPhone11Pro, [000005DD16D32680][000005DD16DA0000 50] iPhone11ProMax, [000005DD16D332C0][000005DD16DA5000 50] iPhoneSE2, [000005DD16D36900][000005DD16DA7800 50] iPhone12Mini, [000005DD16D347C0][000005DD16DAA000 50] iPhone12, [000005DD16D36AC0][000005DD16DAC800 50] iPhone12Pro, [000005DD16D34280][000005DD16DE2800 50] iPhone12ProMax, [000005DD16D37000][000005DD16DB0000 50] iPhone13Mini, [000005DD16D33480][000005DD16DB5000 50] iPhone13, [000005DD16D386C0][000005DD16DB7800 50] iPhone13Pro, [000005DD16D31500][000005DD16DBA000 50] iPhone13ProMax, [000005DD16D37380][000005DD16DBC800 50] iPadPro105, [000005DD16D340C0][000005DD16DA2800 50] iPadPro129, [000005DD16D32300][000005DD16DC0000 50] iPadPro97, [000005DD16D36C80][000005DD16DC5000 50] iPadPro2_129, [000005DD16D30000][000005DD16DC7800 50] iPad5, [000005DD16D34D00][000005DD16DCA000 50] iPad6, [000005DD16D34EC0][000005DD16DCC800 50] iPad7, [000005DD16D371C0][000005DD16DB2800 50] iPad8, [000005DD16D324C0][000005DD16E00000 50] iPad9, [000005DD16D32D80][000005DD16E05000 50] iPadPro11, [000005DD16D38A40][000005DD16E07800 50] iPadPro2_11, [000005DD16D30700][000005DD16E0A000 50] iPadPro3_11, [000005DD16D36040][000005DD16E0C800 50] iPadPro3_129, [000005DD16D35400][000005DD16DC2800 50] iPadPro4_129, [000005DD16D30C40][000005DD16E10000 50] iPadPro5_129, [000005DD16D33100][000005DD16E15000 50] AppleTV, [000005DD16D378C0][000005DD16E17800 50] AppleTV4K, [000005DD16D38340][000005DD16E1A000 50] TVOS, [000005DD16D3A2C0][000005DD16E02800 50] Mac, [000005DD16D3A640][000005DD16E1C800 50] MacEditor, [000005DD16D37FC0][000005DD16E20000 50] MacClient, [000005DD16D316C0][000005DD16E25000 50] MacServer, [000005DD16D308C0][000005DD16E2A000 50] Linux, [000005DD16D38DC0][000005DD16E27800 50] LinuxEditor, [000005DD16D31880][000005DD16E2C800 50] LinuxArm64Editor, [000005DD16D3A9C0][000005DD16E12800 50] LinuxArm64, [000005DD16D39BC0][000005DD16E30000 50] LinuxClient, [000005DD16D39680][000005DD16E35000 50] LinuxArm64Client, [000005DD16D33D40][000005DD16E37800 50] LinuxServer, [000005DD16D3A480][000005DD16E3A000 50] LinuxArm64Server, [000005DD16D36740][000005DD16E3C800 50] Android, [000005DD16D39140][000005DD16E22800 50] Android_Preview_OpenGL, [000005DD16D30A80][000005DD16E40000 50] Android_Preview_Vulkan, [000005DD16D39A00][000005DD16E45000 50] Android_Low, [000005DD16D38F80][000005DD16E47800 50] Android_Mid, [000005DD16D363C0][000005DD16E4A000 50] Android_High, [000005DD16D36580][000005DD16E4C800 50] Android_Default, [000005DD16D32F40][000005DD16E32800 50] Android_Adreno4xx, [000005DD16D36200][000005DD16E50000 50] Android_Adreno5xx_Low, [000005DD16D35CC0][000005DD16E55000 50] Android_Adreno5xx, [000005DD16D37700][000005DD16E57800 50] Android_Adreno6xx, [000005DD16D3AB80][000005DD16E5A000 50] Android_Adreno6xx_Vulkan, [000005DD16D37A80][000005DD16E5C800 50] Android_Adreno7xx, [000005DD16D3AD40][000005DD16E42800 50] Android_Adreno7xx_Vulkan, [000005DD16D39840][000005DD16E60000 50] Android_Mali_T6xx, [000005DD16D394C0][000005DD16E65000 50] Android_Mali_T7xx, [000005DD16D31DC0][000005DD16E67800 50] Android_Mali_T8xx, [000005DD16D3B600][000005DD16E6A000 50] Android_Mali_G71, [000005DD16D35B00][000005DD16E6C800 50] Android_Mali_G72, [000005DD16D35E80][000005DD16E52800 50] Android_Mali_G72_Vulkan, [000005DD16D3B0C0][000005DD16E70000 50] Android_Mali_G76, [000005DD16D35940][000005DD16E75000 50] Android_Mali_G76_Vulkan, [000005DD16D3BD00][000005DD16E77800 50] Android_Mali_G77, [000005DD16D33F00][000005DD16E7A000 50] Android_Mali_G77_Vulkan, [000005DD16D3A100][000005DD16E7C800 50] Android_Mali_G78, [000005DD16D3B980][000005DD16E62800 50] Android_Mali_G78_Vulkan, [000005DD16D3BEC0][000005DD16E80000 50] Android_Mali_G710, [000005DD16D33800][000005DD16E85000 50] Android_Mali_G710_Vulkan, [000005DD16D3AF00][000005DD16E87800 50] Android_Xclipse_920, [000005DD16D3C080][000005DD16E8A000 50] Android_Xclipse_920_Vulkan, [000005DD16D37E00][000005DD16E8C800 50] Android_Vulkan_SM5, [000005DD16D37540][000005DD16E72800 50] Android_PowerVR_G6xxx, [000005DD16D3C240][000005DD16E90000 50] Android_PowerVR_GT7xxx, [000005DD16D339C0][000005DD16E95000 50] Android_PowerVR_GE8xxx, [000005DD16D3CE80][000005DD16E97800 50] Android_PowerVR_GM9xxx, [000005DD16D3C5C0][000005DD16E9A000 50] Android_PowerVR_GM9xxx_Vulkan, [000005DD16D34B40][000005DD16E9C800 50] Android_TegraK1, [000005DD16D3D040][000005DD16E82800 50] Android_Unknown_Vulkan, [000005DD16D3B7C0][000005DD16EA0000 50] Oculus_Quest, [000005DD16D3DC80][000005DD16EA5000 50] Oculus_Quest2, [000005DD16D3D580][000005DD16EA7800 50] HoloLens, 
+[2023.07.17-08.22.56:252][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.07.17-08.22.56:266][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.07.17-08.22.56:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.17-08.22.56:467][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.17-08.22.56:468][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.17-08.22.56:468][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.17-08.22.56:468][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.17-08.22.56:485][  0]LogNetVersion: MyProject88 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4105166281)
+[2023.07.17-08.22.56:625][  0]LogSlate: Border
+[2023.07.17-08.22.56:625][  0]LogSlate: BreadcrumbButton
+[2023.07.17-08.22.56:625][  0]LogSlate: Default
+[2023.07.17-08.22.56:625][  0]LogSlate: Icons.Save
+[2023.07.17-08.22.56:625][  0]LogSlate: Icons.Toolbar.Settings
+[2023.07.17-08.22.56:625][  0]LogSlate: ListView
+[2023.07.17-08.22.56:625][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.07.17-08.22.56:625][  0]LogSlate: SoftwareCursor_Grab
+[2023.07.17-08.22.56:625][  0]LogSlate: TableView.DarkRow
+[2023.07.17-08.22.56:625][  0]LogSlate: TableView.Row
+[2023.07.17-08.22.56:625][  0]LogSlate: TreeView
+[2023.07.17-08.22.56:811][  0]SourceControl: Source control is disabled
+[2023.07.17-08.22.56:846][  0]SourceControl: Source control is disabled
+[2023.07.17-08.22.56:846][  0]SourceControl: Source control is disabled
+[2023.07.17-08.22.56:965][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.07.17-08.22.56:965][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.07.17-08.22.56:965][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.17-08.22.57:415][  0]LogPython: Using Python 3.9.7
+[2023.07.17-08.22.58:207][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.17-08.22.58:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.17-08.22.58:244][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 067DCF8642FDD777C80BD8962A0E27AE | Instance: A78FE8F14CFABCA6578F89A58127D75D (LAPTOP-ON6TU63C-26792).
+[2023.07.17-08.22.58:371][  0]SourceControl: Source control is disabled
+[2023.07.17-08.22.58:378][  0]SourceControl: Source control is disabled
+[2023.07.17-08.22.58:387][  0]SourceControl: Source control is disabled
+[2023.07.17-08.22.58:397][  0]LogUProjectInfo: Found projects:
+[2023.07.17-08.22.58:967][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.17-08.22.59:146][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.17-08.22.59:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.17-08.22.59:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.17-08.22.59:287][  0]LogCollectionManager: Loaded 0 collections in 0.002586 seconds
+[2023.07.17-08.22.59:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Saved/Collections/' took 0.00s
+[2023.07.17-08.22.59:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Content/Developers/SAYUVARAJ/Collections/' took 0.00s
+[2023.07.17-08.22.59:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Content/Collections/' took 0.00s
+[2023.07.17-08.22.59:720][  0]LogEngine: Initializing Engine...
+[2023.07.17-08.22.59:747][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.07.17-08.22.59:750][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.07.17-08.23.00:040][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.17-08.23.00:040][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.17-08.23.00:064][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.17-08.23.00:098][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.17-08.23.00:099][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.17-08.23.00:125][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.17-08.23.00:126][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.17-08.23.00:126][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.07.17-08.23.00:127][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.17-08.23.00:127][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.17-08.23.00:127][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.17-08.23.00:127][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.17-08.23.00:127][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.17-08.23.00:127][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.17-08.23.00:127][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.17-08.23.00:137][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.17-08.23.00:439][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.17-08.23.00:439][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.17-08.23.00:442][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.17-08.23.00:442][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.17-08.23.00:443][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.17-08.23.00:443][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.17-08.23.00:445][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.17-08.23.00:445][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.17-08.23.00:445][  0]LogInit: FAudioDevice initialized.
+[2023.07.17-08.23.00:445][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.17-08.23.00:445][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.17-08.23.00:445][  0]LogInit: Texture streaming: Enabled
+[2023.07.17-08.23.00:486][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.07.17-08.23.00:510][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.17-08.23.00:538][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.17-08.23.00:546][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.17-08.23.00:547][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.07.17-08.23.02:886][  0]LogLiveCoding: Display: First instance in process group "UE_MyProject88_0xfea28c53", spawning console
+[2023.07.17-08.23.02:886][  0]LogLiveCoding: Display: Waiting for server
+[2023.07.17-08.23.02:886][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.17-08.23.02:933][  0]LogInit: Transaction tracking system initialized
+[2023.07.17-08.23.03:025][  0]BlueprintLog: New page: Editor Load
+[2023.07.17-08.23.03:289][  0]LocalizationService: Localization service is disabled
+[2023.07.17-08.23.03:375][  0]TimingProfiler: Initialize
+[2023.07.17-08.23.03:375][  0]TimingProfiler: OnSessionChanged
+[2023.07.17-08.23.03:375][  0]LoadingProfiler: Initialize
+[2023.07.17-08.23.03:375][  0]LoadingProfiler: OnSessionChanged
+[2023.07.17-08.23.03:375][  0]NetworkingProfiler: Initialize
+[2023.07.17-08.23.03:375][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.17-08.23.03:375][  0]MemoryProfiler: Initialize
+[2023.07.17-08.23.03:375][  0]MemoryProfiler: OnSessionChanged
+[2023.07.17-08.23.04:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Content/' took 0.04s
+[2023.07.17-08.23.04:191][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.07.17-08.23.04:289][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.17-08.23.04:292][  0]SourceControl: Source control is disabled
+[2023.07.17-08.23.04:292][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.944
+[2023.07.17-08.23.04:292][  0]Cmd: MAP LOAD FILE="../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.17-08.23.04:303][  0]LightingResults: New page: Lighting Build
+[2023.07.17-08.23.04:313][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-08.23.04:313][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-08.23.04:313][  0]MapCheck: New page: Map Check
+[2023.07.17-08.23.04:313][  0]LightingResults: New page: Lighting Build
+[2023.07.17-08.23.04:319][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.17-08.23.04:323][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.17-08.23.05:568][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.07.17-08.23.05:578][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.17-08.23.05:578][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.07.17-08.23.06:079][  0]LogWorldPartition: Display: WorldPartition initialize took 500 ms
+[2023.07.17-08.23.06:079][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.17-08.23.06:090][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.17-08.23.06:090][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.07.17-08.23.06:103][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.07.17-08.23.06:104][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.17-08.23.06:104][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.329ms to complete.
+[2023.07.17-08.23.06:104][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.812
+[2023.07.17-08.23.06:131][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.783
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: ================================================
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 307.20 MB (0.30 GB) budget. Usage: 0.00%
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.17-08.23.06:132][  0]LogShaderCompilers: Display: ================================================
+[2023.07.17-08.23.06:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-08.23.06:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-08.23.06:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-08.23.06:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-08.23.06:402][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:402][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:405][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:405][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:407][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:407][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:410][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:410][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:413][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:413][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:414][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:414][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:417][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:420][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:420][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:421][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:421][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:424][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.07.17-08.23.06:424][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.17-08.23.06:424][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.07.17-08.23.06:758][  0]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.17-08.23.06:760][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.17-08.23.06:764][  0]LogSlate: Took 0.000835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.17-08.23.06:765][  0]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.17-08.23.06:803][  0]LogViewport: Scene viewport resized to 1154x873, mode Windowed.
+[2023.07.17-08.23.08:283][  0]LogStall: Startup...
+[2023.07.17-08.23.08:286][  0]LogStall: Startup complete.
+[2023.07.17-08.23.08:339][  0]LogLoad: (Engine Initialization) Total time: 16.99 seconds
+[2023.07.17-08.23.08:339][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.17-08.23.08:488][  0]LogAssetRegistry: Asset discovery search completed in 12.7107 seconds
+[2023.07.17-08.23.08:503][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.07.17-08.23.08:522][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.17-08.23.11:644][ 17]LogSlate: Took 0.001090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.17-08.23.11:724][ 17]LogSlate: Took 0.001072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.17-08.23.29:170][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.17-08.23.29:474][438]LogBlueprint: Warning: [AssetLog] C:\Users\S A YUVARAJ\Documents\Unreal Projects\MyProject88\Content\ProceduralNaturePack\Spline_BluePrints\master_river_spline.uasset: [Compiler] Default value for  Scale  on  Make Transform  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2023.07.17-08.23.30:219][438]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ProceduralNaturePack/EPIC_StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/water_river_foam_bsm.water_river_foam_bsm (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/tree_bark_01_ao.tree_bark_01_ao (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/water_river_flow_plx.water_river_flow_plx (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/clouds.clouds (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/water_river_flow_nrm.water_river_flow_nrm (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/moss_bsm.moss_bsm (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/moss_nrm.moss_nrm (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/moss_rgm.moss_rgm (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/tree_bark_01_bsm-1.tree_bark_01_bsm-1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/tree_bark_01_plx.tree_bark_01_plx (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/grass_alpha_bsm.grass_alpha_bsm (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/tree_bark_01_rgm.tree_bark_01_rgm (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/tree_bark_01_nrm.tree_bark_01_nrm (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/grass_alpha_nrm.grass_alpha_nrm (TFO_BC5, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:716][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/grass_alpha_rgm.grass_alpha_rgm (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:717][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_banana_nrm.leaves_banana_nrm (TFO_BC5, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:717][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_banana_bsm.leaves_banana_bsm (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:717][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_banana_rgm.leaves_banana_rgm (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:717][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_100 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:717][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_102 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:717][438]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update SunlightColorLUT
+[2023.07.17-08.23.31:740][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_104 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:740][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_106 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:740][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_108 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:740][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_110 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:740][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/Skybox.Skybox should be resaved to improve async compilation performance.
+[2023.07.17-08.23.31:741][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2023.07.17-08.23.31:785][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_112 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.31:785][438]LogMaterial: Display: Missing cached shadermap for master_river_flow in PCD3D_SM5, Default, SM5 (DDC key hash: 5CBE212423A9DD2A13461CE753F2DB92EE8A145B), compiling. 
+[2023.07.17-08.23.32:167][438]LogStaticMesh: Display: Building static mesh Skybox...
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_13 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_144 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_145 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogStaticMesh: Built static mesh [0.05s] /Game/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_146 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_147 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_149 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_15 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_151 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_154 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_158 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_156 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_160 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_16 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_163 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_162 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:167][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_166 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_165 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_164 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_17 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_168 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_170 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_172 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_171 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_174 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_176 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_177 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_178 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_180 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_179 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_181 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_23 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_19 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_21 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_24 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_29 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_26 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_27 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_30 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_31 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_32 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_33 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_37 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_39 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_35 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_41 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_44 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_46 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_4 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_47 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_48 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_49 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_43 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_53 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_55 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_57 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_51 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_59 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_61 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_64 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_63 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_65 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_66 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_68 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_70 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_72 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_74 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_76 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_80 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_81 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_78 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_82 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_83 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_187 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_182 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape2.Texture2D_98 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_189 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:168][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_190 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_192 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_194 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_200 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_196 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_201 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_203 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_198 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_204 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_205 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_206 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_208 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_209 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_211 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_213 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_217 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_215 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_219 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_222 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_220 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_223 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_225 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_224 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_227 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_233 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_231 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_229 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_237 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_240 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_241 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_244 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_235 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_242 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_239 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_252 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_250 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_248 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_246 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_254 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_256 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_258 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_259 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_260 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_257 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_262 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_266 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_268 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_264 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_270 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_272 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_276 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_275 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_274 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_277 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_278 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_282 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_280 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_288 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_284 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_292 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_286 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_290 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_293 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_296 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:169][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_298 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_300 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_294 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_295 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_302 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_301 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_304 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_308 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_306 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_309 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_310 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_307 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_315 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_316 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape3.Texture2D_311 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_313 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_317 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_320 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_323 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_318 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_321 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_326 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_325 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_327 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_329 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_331 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_333 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_332 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_334 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_336 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_337 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_341 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_339 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_347 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_343 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_345 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_349 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_350 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_354 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_351 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_352 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_355 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_357 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_361 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_367 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_365 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_363 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_368 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_369 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_373 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_371 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_370 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_359 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_381 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_377 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_375 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_383 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_379 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_386 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_387 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_385 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_388 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_390 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:170][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_392 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_394 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_396 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_398 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_400 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_402 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_405 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_404 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_403 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_407 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_408 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_410 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_419 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_414 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_418 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_416 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_412 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_421 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_423 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_424 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_422 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_427 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_431 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_429 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_426 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_435 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_437 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_433 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_438 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape4.Texture2D_440 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:171][438]LogMaterial: Display: Missing cached shadermap for river_flow_a in PCD3D_SM5, Default, SM5 (DDC key hash: A116A84BDF1FDBB8A3289647C0B82CF66EC4D9A5), compiling. 
+[2023.07.17-08.23.32:342][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape_0.Texture2D_3 (BGRA8, 128X512 X1X1) (Required Memory Estimate: 1.666698 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:342][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene:PersistentLevel.Landscape_0.Texture2D_2 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:342][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_fern_bsm.leaves_fern_bsm (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:342][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_fern_nrm.leaves_fern_nrm (TFO_BC5, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:342][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_fern_rgm.leaves_fern_rgm (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:342][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/water/river-plane-a.river-plane-a should be resaved to improve async compilation performance.
+[2023.07.17-08.23.32:371][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_tree_nrm.leaves_tree_nrm (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:371][438]LogMaterial: Display: Missing cached shadermap for master_spline_material in PCD3D_SM5, Default, SM5 (DDC key hash: 04A431E437B5597B593378E6EFC84168C871374D), compiling. 
+[2023.07.17-08.23.32:781][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_tree_rgm.leaves_tree_rgm (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.32:781][438]LogMaterial: Display: Missing cached shadermap for tree_branch_a_spline in PCD3D_SM5, Default, SM5 (DDC key hash: 4D86E2D20ABED414C0DE781DA9FB7BBDE137518D), compiling. 
+[2023.07.17-08.23.33:071][438]LogStaticMesh: Display: Building static mesh river-plane-a...
+[2023.07.17-08.23.33:071][438]LogStaticMesh: Built static mesh [0.07s] /Game/ProceduralNaturePack/Meshes/water/river-plane-a.river-plane-a
+[2023.07.17-08.23.33:071][438]LogMaterial: Display: Missing cached shadermap for tree_branch_a_spline_distant_cheap in PCD3D_SM5, Default, SM5 (DDC key hash: 2ABE7E1DC89CAE24E8F3A1EBF7112E0BE5689A4D), compiling. 
+[2023.07.17-08.23.33:343][438]LogMaterial: Display: Missing cached shadermap for master_foliage in PCD3D_SM5, Default, SM5 (DDC key hash: B16E1B79B08BCE42094195A0D47EADA1C7E22D2D), compiling. 
+[2023.07.17-08.23.33:534][438]LogMaterial: Display: Missing cached shadermap for grass_a in PCD3D_SM5, Default, SM5 (DDC key hash: AF15945FB332153077707BEDAE9B7A396B558734), compiling. 
+[2023.07.17-08.23.33:722][438]LogMaterial: Display: Missing cached shadermap for grass_a_cheap_distant in PCD3D_SM5, Default, SM5 (DDC key hash: 43D2039B342FE020A167D607FE0A4DD8D7A2192C), compiling. 
+[2023.07.17-08.23.33:961][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-a_bsm.rock-a_bsm (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.33:961][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-a_nrm.rock-a_nrm (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.33:961][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/grass/grass_small_01.grass_small_01 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.33:978][438]LogMaterial: Display: Missing cached shadermap for leaves_banana in PCD3D_SM5, Default, SM5 (DDC key hash: E0B1E2905B8F5D783CF61E6E3A0B46830DAC3B8C), compiling. 
+[2023.07.17-08.23.34:208][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_02.leaves_banana_02 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.34:241][438]LogMaterial: Display: Missing cached shadermap for master_leaves in PCD3D_SM5, Default, SM5 (DDC key hash: B538C109F69F7A328EF9AE4B4C2DB377B5209ABE), compiling. 
+[2023.07.17-08.23.34:545][438]LogMaterial: Display: Missing cached shadermap for tree_leaves_01 in PCD3D_SM5, Default, SM5 (DDC key hash: B18F839A08122149E24E2EE568FA1ECFCE09F3E0), compiling. 
+[2023.07.17-08.23.34:885][438]LogMaterial: Display: Missing cached shadermap for tree_leaves_01_cheap_distant in PCD3D_SM5, Default, SM5 (DDC key hash: E18DC2E464EE95EDF16FB3CC832B84F1A7600DDF), compiling. 
+[2023.07.17-08.23.35:440][438]LogMaterial: Display: Missing cached shadermap for tree_branch_a in PCD3D_SM5, Default, SM5 (DDC key hash: 460D8A6C6CEBE900570C1E42BCF0B28A269AEE66), compiling. 
+[2023.07.17-08.23.36:463][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_01.leaves_tree_01 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.36:480][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_02.leaves_tree_02 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.36:541][438]LogMaterial: Display: Missing cached shadermap for tree_bark_a_spline in PCD3D_SM5, Default, SM5 (DDC key hash: B97321F85B635C131157BB93D6229874D57B9F22), compiling. 
+[2023.07.17-08.23.37:151][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-end.tree-root-large-a-end should be resaved to improve async compilation performance.
+[2023.07.17-08.23.37:155][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-root.tree-root-large-a-root should be resaved to improve async compilation performance.
+[2023.07.17-08.23.37:722][438]LogMaterial: Display: Missing cached shadermap for tree_bark_a_no_moss_spline in PCD3D_SM5, Default, SM5 (DDC key hash: B0F19208C50C2B23398EFDD375A23D31491654BF), compiling. 
+[2023.07.17-08.23.38:090][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/grass/grass_small_02.grass_small_02 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.38:092][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_01.leaves_banana_01 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.38:130][438]LogMaterial: Display: Missing cached shadermap for leaves_fern in PCD3D_SM5, Default, SM5 (DDC key hash: F796B2E7F4B3C351F51CFBD022F047A532EEE72D), compiling. 
+[2023.07.17-08.23.38:338][438]LogStaticMesh: Display: Building static mesh grass_small_01...
+[2023.07.17-08.23.38:339][438]LogStaticMesh: Built static mesh [0.06s] /Game/ProceduralNaturePack/Meshes/grass/grass_small_01.grass_small_01
+[2023.07.17-08.23.38:339][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.leaves_fern_01 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.38:340][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_02.leaves_fern_02 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.38:377][438]LogStaticMesh: Display: Building static mesh leaves_banana_02...
+[2023.07.17-08.23.38:377][438]LogMaterial: Display: Missing cached shadermap for master_rocks_small in PCD3D_SM5, Default, SM5 (DDC key hash: BD3FE4912D012DF80CCF89D770E4E426D1BB49AB), compiling. 
+[2023.07.17-08.23.38:622][438]LogStaticMesh: Built static mesh [0.03s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_02.leaves_banana_02
+[2023.07.17-08.23.38:623][438]LogStaticMesh: Warning: Mesh leaves_banana_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_02.leaves_banana_02.
+[2023.07.17-08.23.38:625][438]LogStaticMesh: Display: Building static mesh leaves_tree_01...
+[2023.07.17-08.23.38:625][438]LogStaticMesh: Display: Building static mesh tree-root-large-a-root...
+[2023.07.17-08.23.38:625][438]LogStaticMesh: Display: Building static mesh tree-root-large-a-end...
+[2023.07.17-08.23.38:625][438]LogMaterial: Display: Missing cached shadermap for rocks_small_a2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F1A5A8A8D08F7C33FBB24201F439E820E1AF556), compiling. 
+[2023.07.17-08.23.38:773][438]LogStaticMesh: Built static mesh [0.12s] /Game/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-end.tree-root-large-a-end
+[2023.07.17-08.23.38:773][438]LogStaticMesh: Built static mesh [0.13s] /Game/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-root.tree-root-large-a-root
+[2023.07.17-08.23.38:773][438]LogStaticMesh: Display: Building static mesh leaves_tree_02...
+[2023.07.17-08.23.38:773][438]LogStaticMesh: Warning: Mesh tree-root-large-a-end is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-end.tree-root-large-a-end.
+[2023.07.17-08.23.38:773][438]LogStaticMesh: Warning: Mesh tree-root-large-a-root is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-root.tree-root-large-a-root.
+[2023.07.17-08.23.38:773][438]LogStaticMesh: Built static mesh [0.35s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_01.leaves_tree_01
+[2023.07.17-08.23.38:773][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c1.rock_group_small_c1 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.38:817][438]LogStaticMesh: Display: Building static mesh grass_small_02...
+[2023.07.17-08.23.38:818][438]LogStaticMesh: Built static mesh [0.14s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_02.leaves_tree_02
+[2023.07.17-08.23.38:818][438]LogStaticMesh: Built static mesh [0.04s] /Game/ProceduralNaturePack/Meshes/grass/grass_small_02.grass_small_02
+[2023.07.17-08.23.38:818][438]LogMaterial: Display: Missing cached shadermap for master_rock_world_material in PCD3D_SM5, Default, SM5 (DDC key hash: 936480680DD5DCF9A34390B74947FC2102AB5917), compiling. 
+[2023.07.17-08.23.38:965][438]LogStaticMesh: Warning: Mesh leaves_tree_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_01.leaves_tree_01.
+[2023.07.17-08.23.38:966][438]LogStaticMesh: Warning: Mesh leaves_tree_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/leaves/leaves_tree_02.leaves_tree_02.
+[2023.07.17-08.23.38:966][438]LogDerivedDataCache: C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMESHDATAKEY/de/34/59415c3bc808a873cfe2bff9f046be21453b.udd from '/Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.leaves_fern_01'.
+[2023.07.17-08.23.38:966][438]LogStaticMesh: Display: Building static mesh leaves_banana_01...
+[2023.07.17-08.23.38:966][438]LogStaticMesh: Display: Building static mesh leaves_fern_01...
+[2023.07.17-08.23.38:966][438]LogDerivedDataCache: C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMESHDATAKEY/40/53/f2d3f5edf187d782ef8e31eac18cff3ddcb3.udd from '/Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_01.leaves_banana_01'.
+[2023.07.17-08.23.38:966][438]LogMaterial: Display: Missing cached shadermap for boulder_b in PCD3D_SM5, Default, SM5 (DDC key hash: 5B330B775B5F7AAF986974053552A023A0B8A0C5), compiling. 
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Warning: Mesh leaves_fern_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_02.leaves_fern_02.
+[2023.07.17-08.23.39:127][438]LogDerivedDataCache: Display: C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5d5c88f75065e96129acdb6ca440a42ca0850f79 and existing hash da9823f4e12ceed483f10adb3e21578345ea0e48 for LegacyMESHDATAKEY/5597d638ed28c1dd9a08e424c19f6daf75875d07 from '/Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_01.leaves_banana_01'
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Built static mesh [0.10s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_01.leaves_banana_01
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Built static mesh [0.10s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.leaves_fern_01
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Display: Building static mesh rock_group_small_c1...
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Warning: Mesh leaves_banana_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/leaves/leaves_banana_01.leaves_banana_01.
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Warning: Mesh leaves_fern_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.leaves_fern_01.
+[2023.07.17-08.23.39:127][438]LogStaticMesh: Built static mesh [0.07s] /Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c1.rock_group_small_c1
+[2023.07.17-08.23.39:128][438]LogStaticMesh: Warning: Mesh rock_group_small_c1 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c1.rock_group_small_c1.
+[2023.07.17-08.23.39:128][438]LogMaterial: Display: Missing cached shadermap for master_terrain_blend in PCD3D_SM5, Default, SM5 (DDC key hash: 4B889AB79FD573B66B95F3E953B23E47270388CA), compiling. 
+[2023.07.17-08.23.39:226][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock_detail_nrm.rock_detail_nrm (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.39:226][438]LogMaterial: Display: Missing cached shadermap for grass_dirt_cobblestone_no_puddles in PCD3D_SM5, Default, SM5 (DDC key hash: 6E84EC231B95691D62C799C0A9C14E55D783ED8B), compiling. 
+[2023.07.17-08.23.39:300][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock_tiling_bsm-2.rock_tiling_bsm-2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.39:301][438]LogMaterial: Display: Missing cached shadermap for grass_dirt_cobblestone_puddles in PCD3D_SM5, Default, SM5 (DDC key hash: 5597D8BB061DCA3BCA90CDDB22338167D08C147A), compiling. 
+[2023.07.17-08.23.39:393][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock_tiling_nrm-2.rock_tiling_nrm-2 (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.39:394][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_01.leaves_vine_01 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:394][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_02.leaves_vine_02 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:395][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_03.leaves_vine_03 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:396][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_04.leaves_vine_04 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:397][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_bare_branch_02.leaves_vine_bare_branch_02 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:402][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b1.rock_boulder_b1 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:412][438]LogMaterial: Display: Missing cached shadermap for boulder_c in PCD3D_SM5, Default, SM5 (DDC key hash: C3439358EC06EEF528315FD8C477847BA20C0227), compiling. 
+[2023.07.17-08.23.39:545][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2.rock_boulder_b2 should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:559][438]LogMaterial: Display: Missing cached shadermap for tree_bark_a in PCD3D_SM5, Default, SM5 (DDC key hash: D8DC24BB56C46E07035B1200148EF31D35A35EFC), compiling. 
+[2023.07.17-08.23.39:849][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-end.vine-large-a-end should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:851][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-loop.vine-large-a-loop should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:855][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_end.vine_small_a_end should be resaved to improve async compilation performance.
+[2023.07.17-08.23.39:856][438]LogStaticMesh: StaticMesh /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_loop.vine_small_a_loop should be resaved to improve async compilation performance.
+[2023.07.17-08.23.40:279][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock_small_tiling_rgm.rock_small_tiling_rgm (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.40:279][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-a_rgm.rock-a_rgm (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.40:280][438]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_loop) ...
+[2023.07.17-08.23.43:319][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock_small_tiling_nrm.rock_small_tiling_nrm (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh leaves_vine_03...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh leaves_vine_01...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh leaves_vine_02...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.04s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_03.leaves_vine_03
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.07s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_01.leaves_vine_01
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.11s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_02.leaves_vine_02
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh vine_small_a_loop...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.08s] /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_loop.vine_small_a_loop
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Warning: Mesh vine_small_a_loop is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_loop.vine_small_a_loop.
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh leaves_vine_bare_branch_02...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh leaves_vine_04...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.07s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_bare_branch_02.leaves_vine_bare_branch_02
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.07s] /Game/ProceduralNaturePack/Meshes/leaves/leaves_vine_04.leaves_vine_04
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh vine-large-a-end...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Built static mesh [0.02s] /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-end.vine-large-a-end
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Building static mesh rock_boulder_b1...
+[2023.07.17-08.23.43:319][438]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_end) ...
+[2023.07.17-08.23.43:650][438]LogDerivedDataCache: Display: C:/Users/S A YUVARAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 90e73e7dafd015087f828ec1696df38ac2af69f4 and existing hash f3b4eaa21d8045c4fcfa6fcd5933b31184ce4765 for LegacyMESHDATAKEY/c125548b5b44c7fe6aea5ab986eaf60d02c76277 from '/Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2.rock_boulder_b2'
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Display: Building static mesh vine-large-a-loop...
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Display: Building static mesh rock_boulder_b2...
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Display: Building static mesh vine_small_a_end...
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Built static mesh [0.02s] /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_end.vine_small_a_end
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Built static mesh [0.09s] /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-loop.vine-large-a-loop
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Warning: Mesh vine_small_a_end is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_end.vine_small_a_end.
+[2023.07.17-08.23.43:650][438]LogStaticMesh: Warning: Mesh vine-large-a-loop is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-loop.vine-large-a-loop.
+[2023.07.17-08.23.43:650][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock_tiling-01_bsm.rock_tiling-01_bsm (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.48:067][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-a_ao.rock-a_ao (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.48:067][438]LogStaticMesh: Built static mesh [1.93s] /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b1.rock_boulder_b1
+[2023.07.17-08.23.48:067][438]LogStaticMesh: Warning: Mesh rock_boulder_b1 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b1.rock_boulder_b1.
+[2023.07.17-08.23.48:067][438]LogStaticMesh: Built static mesh [1.89s] /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2.rock_boulder_b2
+[2023.07.17-08.23.48:067][438]LogStaticMesh: Warning: Mesh rock_boulder_b2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2.rock_boulder_b2.
+[2023.07.17-08.23.48:067][438]LogStaticMesh: Display: Building static mesh large_tree_w_roots_a...
+[2023.07.17-08.23.48:067][438]LogStaticMesh: Built static mesh [1.99s] /Game/ProceduralNaturePack/Meshes/trees_w_roots/large_tree_w_roots_a.large_tree_w_roots_a
+[2023.07.17-08.23.48:067][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AC812335A54556133D410AF4D00564CE833F8970), compiling. 
+[2023.07.17-08.23.48:293][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 901C0DE1266225E401D42B938CAD20D50BC57D13), compiling. 
+[2023.07.17-08.23.48:446][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: CF6A82EF1400AC99F6866B3736AE2B6C2BC6C711), compiling. 
+[2023.07.17-08.23.48:591][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: F994B0FE03B963D8889A6B9F58D013BF5959EE28), compiling. 
+[2023.07.17-08.23.48:801][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E73F3FF7C986AE17B7AD2130A29F59A7FEF93944), compiling. 
+[2023.07.17-08.23.48:940][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 91DE6C5863139B4EFA8432CDE4C12B5F9DF30ADD), compiling. 
+[2023.07.17-08.23.49:211][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-a_plx.rock-a_plx (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.49:211][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A361CC429F1F3D9773463ECA9C1DC095251598F), compiling. 
+[2023.07.17-08.23.49:352][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: 955744EB3F05633F97A247235803ED7E3E14043F), compiling. 
+[2023.07.17-08.23.49:526][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-b_bsm.rock-b_bsm (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.49:526][438]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_68 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A59CFADAEB03CD59549B8D4FC5CD87A695F300E), compiling. 
+[2023.07.17-08.23.50:203][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-b_nrm.rock-b_nrm (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.51:814][438]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ProceduralNaturePack/Demo_Scene.Demo_Scene
+[2023.07.17-08.23.51:887][438]Cmd: MAP LOAD FILE="../../../../../../Users/S A YUVARAJ/Documents/Unreal Projects/MyProject88/Content/ProceduralNaturePack/Demo_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.17-08.23.51:896][438]LightingResults: New page: Lighting Build
+[2023.07.17-08.23.51:906][438]LoadErrors: New page: Loading map: Demo_Scene.umap
+[2023.07.17-08.23.52:161][438]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-08.23.52:185][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-08.23.52:269][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-b_plx.rock-b_plx (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.52:269][438]MapCheck: New page: Map Check
+[2023.07.17-08.23.52:270][438]LightingResults: New page: Lighting Build
+[2023.07.17-08.23.52:424][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.17-08.23.52:638][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.07.17-08.23.52:680][438]LogTexture: Display: Waiting for textures to be ready 0/233 (/Game/ProceduralNaturePack/Textures/leaves_tree_bsm) ...
+[2023.07.17-08.23.52:890][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/leaves_tree_bsm.leaves_tree_bsm (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.53:214][438]LogTexture: Display: Waiting for textures to be ready 14/233 (/Game/ProceduralNaturePack/Textures/rock-b_rgm) ...
+[2023.07.17-08.23.58:828][438]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.07.17-08.23.58:828][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/rock-b_rgm.rock-b_rgm (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.23.58:828][438]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.011942s
+[2023.07.17-08.23.58:982][438]LogTexture: Display: Waiting for textures to be ready 15/233 (/Game/ProceduralNaturePack/Textures/ground_mud_bsm_8192) ...
+[2023.07.17-08.24.01:778][438]LogTexture: Display: Building textures: /Game/ProceduralNaturePack/Textures/ground_mud_bsm_8192.ground_mud_bsm_8192 (TFO_AutoDXT, 8192X8192 X1X1) (Required Memory Estimate: 1280.000 MB), EncodeSpeed: Fast
+[2023.07.17-08.24.05:610][438]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
